@@ -1,1 +1,1 @@
-Exercícios de aprendizagem!
+Exercícios de aprendizagem no curso de Desenvolvimento Web Moderno
